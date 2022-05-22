@@ -1,3 +1,5 @@
+MWANJA, JENNIFER 
+2020-04-08918
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
